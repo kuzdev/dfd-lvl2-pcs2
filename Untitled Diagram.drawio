@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T04:24:21.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="zsOqzt_2A5THJuZq_pIN" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:50:18.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="VRuYkAf6Z0LKpESEkb-X" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1348" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="697" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="CrmonsyU1eTdluvtc0Tg-5" value="2.3&lt;br&gt;Kategori" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-6" value="2.2&lt;br&gt;Detil Produk" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-6" value="2.2&lt;br&gt;Stok" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="190" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-7" value="" style="endArrow=classic;html=1;exitX=0.986;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-6" edge="1">
@@ -28,7 +28,7 @@
             <mxPoint x="530" y="216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-10" value="Data&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Detil Produk&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-7" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-10" value="Data &lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Stok&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-7" vertex="1" connectable="0">
           <mxGeometry x="-0.3761" y="-1" relative="1" as="geometry">
             <mxPoint x="27" y="-7" as="offset" />
           </mxGeometry>
@@ -39,12 +39,12 @@
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-11" value="Data&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Detil Produk&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-8" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-11" value="Data &lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Stok&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-8" vertex="1" connectable="0">
           <mxGeometry x="0.549" relative="1" as="geometry">
             <mxPoint x="40" y="0.02" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-9" value="Detil Produk" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-9" value="Stok" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-12" value="" style="endArrow=classic;html=1;exitX=0.986;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-58" value="Data&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Detil Produk&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-39" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-58" value="Data Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-39" vertex="1" connectable="0">
           <mxGeometry x="-0.1922" y="-1" relative="1" as="geometry">
             <mxPoint x="24" y="-6" as="offset" />
           </mxGeometry>
@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-59" value="Info&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Detil Produk&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-40" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-59" value="Info Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-40" vertex="1" connectable="0">
           <mxGeometry x="0.3525" y="1" relative="1" as="geometry">
             <mxPoint x="38" y="-1" as="offset" />
           </mxGeometry>
@@ -335,7 +335,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-60" value="Info&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Detil Produk&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-50" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-60" value="Info &lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Stok&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-50" vertex="1" connectable="0">
           <mxGeometry x="-0.4051" y="1" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
           </mxGeometry>
@@ -399,7 +399,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9hTHNrouMxbD-vq0-we-1" value="" style="endArrow=classic;html=1;entryX=0.567;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CrmonsyU1eTdluvtc0Tg-2">
+        <mxCell id="X9hTHNrouMxbD-vq0-we-1" value="" style="endArrow=classic;html=1;entryX=0.567;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="CrmonsyU1eTdluvtc0Tg-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="400" as="sourcePoint" />
             <mxPoint x="380" y="230" as="targetPoint" />
@@ -410,7 +410,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9hTHNrouMxbD-vq0-we-2" value="Data Kategori" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X9hTHNrouMxbD-vq0-we-1">
+        <mxCell id="X9hTHNrouMxbD-vq0-we-2" value="Data Kategori" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X9hTHNrouMxbD-vq0-we-1" vertex="1" connectable="0">
           <mxGeometry x="0.6648" y="-1" relative="1" as="geometry">
             <mxPoint x="29" as="offset" />
           </mxGeometry>
