@@ -1,47 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:50:18.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="VRuYkAf6Z0LKpESEkb-X" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T13:38:49.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PLwQtXh7ApIfFDqss6mK" version="14.7.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="697" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="773" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-1" value="Owner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-2" value="2.1&lt;br&gt;Produk" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-2" value="2.1&lt;br&gt;Produk dan Stok" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-3" value="2.5&lt;br&gt;Member" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-3" value="2.4&lt;br&gt;Member" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="660" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-4" value="2.4&lt;br&gt;Artikel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-4" value="2.3&lt;br&gt;Artikel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="500" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-5" value="2.3&lt;br&gt;Kategori" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-5" value="2.2&lt;br&gt;Kategori" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-6" value="2.2&lt;br&gt;Stok" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="320" y="190" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-7" value="" style="endArrow=classic;html=1;exitX=0.986;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-6" edge="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-7" value="" style="endArrow=classic;html=1;exitX=0.7;exitY=0.957;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="270" as="sourcePoint" />
             <mxPoint x="530" y="216" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="216" />
+              <mxPoint x="470" y="216" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-10" value="Data &lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Stok&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-7" vertex="1" connectable="0">
           <mxGeometry x="-0.3761" y="-1" relative="1" as="geometry">
-            <mxPoint x="27" y="-7" as="offset" />
+            <mxPoint x="56" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-8" value="" style="endArrow=classic;html=1;entryX=0.971;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="CrmonsyU1eTdluvtc0Tg-6" edge="1">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="CrmonsyU1eTdluvtc0Tg-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="220" as="targetPoint" />
+            <mxPoint x="387.97" y="239.98000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-11" value="Data &lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Stok&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-8" vertex="1" connectable="0">
           <mxGeometry x="0.549" relative="1" as="geometry">
-            <mxPoint x="40" y="0.02" as="offset" />
+            <mxPoint x="65" y="46" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-9" value="Stok" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
@@ -156,7 +160,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-34" value="Data Produk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-32" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-34" value="Data Produk dan Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-32" vertex="1" connectable="0">
           <mxGeometry x="0.0743" y="1" relative="1" as="geometry">
             <mxPoint x="85" as="offset" />
           </mxGeometry>
@@ -170,45 +174,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-35" value="Info Produk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-33" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-35" value="Info Produk dan Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-33" vertex="1" connectable="0">
           <mxGeometry x="0.0601" y="-2" relative="1" as="geometry">
             <mxPoint x="91.43" y="1.76" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-38" value="Member" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="590" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-39" value="" style="endArrow=classic;html=1;exitX=1.003;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.024;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-1" target="CrmonsyU1eTdluvtc0Tg-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="280" as="sourcePoint" />
-            <mxPoint x="180" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="215" />
-              <mxPoint x="130" y="200" />
-              <mxPoint x="140" y="215" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-58" value="Data Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-39" vertex="1" connectable="0">
-          <mxGeometry x="-0.1922" y="-1" relative="1" as="geometry">
-            <mxPoint x="24" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-40" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="CrmonsyU1eTdluvtc0Tg-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319" y="230" as="sourcePoint" />
-            <mxPoint x="180" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="230" />
-              <mxPoint x="130" y="220" />
-              <mxPoint x="120" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-59" value="Info Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-40" vertex="1" connectable="0">
-          <mxGeometry x="0.3525" y="1" relative="1" as="geometry">
-            <mxPoint x="38" y="-1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-41" value="" style="endArrow=classic;html=1;entryX=0.024;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -219,7 +191,6 @@
               <mxPoint x="120" y="388" />
               <mxPoint x="130" y="380" />
               <mxPoint x="140" y="388" />
-              <mxPoint x="150" y="380" />
               <mxPoint x="160" y="388" />
             </Array>
           </mxGeometry>
@@ -235,7 +206,6 @@
             <mxPoint x="110" y="406.15999999999997" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="406" />
-              <mxPoint x="150" y="400" />
               <mxPoint x="140" y="406" />
               <mxPoint x="130" y="400" />
               <mxPoint x="120" y="406" />
@@ -319,25 +289,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-57" value="Info Produk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-49" vertex="1" connectable="0">
+        <mxCell id="CrmonsyU1eTdluvtc0Tg-57" value="Info Produk dan Stok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-49" vertex="1" connectable="0">
           <mxGeometry x="-0.5251" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-50" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-6" target="CrmonsyU1eTdluvtc0Tg-38" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="350" as="sourcePoint" />
-            <mxPoint x="180" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="355" y="280" />
-              <mxPoint x="150" y="280" />
-              <mxPoint x="150" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CrmonsyU1eTdluvtc0Tg-60" value="Info &lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Stok&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CrmonsyU1eTdluvtc0Tg-50" vertex="1" connectable="0">
-          <mxGeometry x="-0.4051" y="1" relative="1" as="geometry">
-            <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CrmonsyU1eTdluvtc0Tg-52" value="" style="endArrow=classic;html=1;entryX=0.814;entryY=-0.016;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="CrmonsyU1eTdluvtc0Tg-5" target="CrmonsyU1eTdluvtc0Tg-38" edge="1">
@@ -399,14 +353,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9hTHNrouMxbD-vq0-we-1" value="" style="endArrow=classic;html=1;entryX=0.567;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="CrmonsyU1eTdluvtc0Tg-2" edge="1">
+        <mxCell id="X9hTHNrouMxbD-vq0-we-1" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="CrmonsyU1eTdluvtc0Tg-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="400" as="sourcePoint" />
             <mxPoint x="380" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="400" />
               <mxPoint x="620" y="150" />
-              <mxPoint x="360" y="150" />
+              <mxPoint x="380" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
